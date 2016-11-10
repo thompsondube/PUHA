@@ -1,0 +1,16 @@
+{
+  "name": "PUHA",
+  "version": "0.0.0",
+  "description": "Puha Bot",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "initai-dev-server": "^0.4.3",
+    "initai-node": "~0.0.6"
+  }
+}
